@@ -1,0 +1,76 @@
+body{
+   background-color:rgb(234, 7, 83);
+}
+.logo{
+     display:flex;
+     justify-content:center;
+     align-items:center;
+}
+h1{
+     display:flex;
+     justify-content:center;
+     font-size:35px;
+     font-family:sans-serif;
+     color:yellow; 
+     text-shadow:0px 1px 0px yellow;
+}
+h2{
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+    font-family:sans-serif;
+    color:greenyellow; 
+    text-shadow:0px 1px 0px greenyellow;
+}
+
+h3{
+    display:flex;
+    justify-content:center;
+    text-align:justify;
+    font-size:20px;
+    padding:0px;
+    font-family:Arial;
+    color:#ffffff;
+}
+.fest{
+    display:flex;
+    justify-content:center;
+    text-align:justify;
+    padding:20px;
+    font-size:40px;
+    font-family:Arial;
+    color:#ffffff;
+    text-shadow:0px 1px 0px
+}
+.orça a{
+    display:flex;
+    justify-content:center;
+    font-size:25px;
+    text-decoration:none;
+    color:chartreuse;
+    padding:20px;
+    border-bottom:#ffffff;
+}
+p{
+    display:flex;
+    justify-content:center;
+    text-shadow:0px 2px 0px
+}
+.trabalhos{
+     display:flex;
+     justify-content:center;
+     font-size:35px;
+     padding:10px;
+     font-family:sans-serif;
+     color:yellow;
+     text-shadow:0px 1px 0px
+    
+
+}
+.banner_fot{
+    display:flex;
+    justify-content:space-between;
+
+}
+
+
